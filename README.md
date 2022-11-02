@@ -1,2 +1,6 @@
 # dot_files
-My dot files
+
+Contains all my dotfiles for my NVIM and rices.
+
+
+NVIM uses vim-plug as its package manager
